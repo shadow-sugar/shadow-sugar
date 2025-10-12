@@ -3,4 +3,4 @@
 
 
  hi ts a wip ok sorry
-![Image Alt]()
+![Image Alt](https://github.com/shadow-sugar/shadow-sugar/blob/6117d71cfe5009feccbdd68daabe3f43d700b504/JUBlOcN.png)
